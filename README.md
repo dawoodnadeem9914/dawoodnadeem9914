@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=💼+Open+to+Internships+%26+Junior+SWE+Roles;🤖+Building+AI-Powered+Products;🏛️+Spring+Boot+%7C+Oracle+%7C+Python;📍+Based+in+Malaysia%2C+open+to+remote)](https://github.com/dawoodnadeem9914)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=Open+to+Internships+%26+Junior+SWE+Roles;Building+AI-Powered+Interview+Coach;Spring+Boot+%7C+Oracle+DB+%7C+Python;Learning+Machine+Learning+%26+React;Malaysia+open+to+remote+worldwide)](https://github.com/dawoodnadeem9914)
 
 </div>
 
@@ -23,39 +23,41 @@ class DawoodNadeem:
         self.name        = "Dawood Nadeem"
         self.university  = "University Putra Malaysia (UPM)"
         self.degree      = "Bachelor of Computer Science"
-        self.year        = "2nd Year (2023 – Present)"
+        self.year        = "2nd Year  (2023 – Present)"
         self.location    = "Malaysia 🇲🇾"
         self.email       = "Captaindawood12@gmail.com"
 
     @property
     def tech_stack(self):
-        return {
-            "languages":   ["Java", "Python", "JavaScript", "HTML", "CSS", "SQL"],
-            "frameworks":  ["Spring Boot", "Spring Security", "Thymeleaf", "Bootstrap 5"],
-            "databases":   ["Oracle DB", "MySQL"],
-            "tools":       ["Git", "GitHub", "IntelliJ IDEA", "VS Code"],
-            "learning":    ["Machine Learning", "scikit-learn", "React.js"],
-        }
+        return dict(
+            languages  = ["Java", "Python", "JavaScript", "HTML", "CSS", "SQL"],
+            frameworks = ["Spring Boot", "Spring Security", "Thymeleaf", "Bootstrap 5"],
+            databases  = ["Oracle DB", "MySQL"],
+            tools      = ["Git", "GitHub", "IntelliJ IDEA", "VS Code", "Maven"],
+            learning   = ["Machine Learning", "scikit-learn", "TensorFlow", "React.js"],
+        )
 
-    @property
     def current_project(self):
-        return "AI Mock Interview Coach — free, AI-powered interview prep for everyone 🤖"
+        return "🤖 AI Mock Interview Coach — free, AI-powered interview prep for everyone"
 
     def open_to(self):
-        return ["Internships", "Junior Software Engineer", "Graduate Roles"]
+        return ["Internships 🎯", "Junior Software Engineer 💼", "Graduate Roles 🎓"]
+
+    def fun_fact(self):
+        return "I built an AI that preps people for job interviews — as a 2nd year student 🚀"
 ```
 
 ---
 
 ## 🎓 Education
 
-<table>
+<table width="100%">
   <tr>
     <td><b>🏛️ University Putra Malaysia (UPM)</b></td>
-    <td>Bachelor of Computer Science &nbsp;|&nbsp; 2023 – Present</td>
+    <td align="right">Bachelor of Computer Science &nbsp;|&nbsp; 2023 – Present</td>
   </tr>
   <tr>
-    <td colspan="2"><em>Data Structures & Algorithms · Artificial Intelligence · Enterprise Application Development · Database Systems · Object-Oriented Programming</em></td>
+    <td colspan="2"><em>&nbsp;Data Structures & Algorithms · Artificial Intelligence · Enterprise Application Development · Database Systems · OOP</em></td>
   </tr>
 </table>
 
@@ -78,6 +80,7 @@ class DawoodNadeem:
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -104,37 +107,31 @@ class DawoodNadeem:
 <td width="50%" valign="top">
 
 ### 🤖 AI Mock Interview Coach
-[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dawoodnadeem9914/AI_Project)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dawoodnadeem9914/AI_Project) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-> *The problem: Most people fail interviews not because they're unqualified, but because they're unprepared.*
+> *Most people fail interviews not because they're unqualified — but because they're unprepared.*
 
-An intelligent, **free-to-use** platform that conducts full mock interviews using AI — asking real questions, evaluating responses in real-time, scoring performance, and giving specific, actionable feedback to help candidates succeed.
+Free, AI-powered platform that conducts full mock interviews, evaluates responses in real-time, scores performance, and gives specific actionable feedback.
 
-**✦ Key Features**
-- 🎯 Dynamic AI-generated interview questions
-- 📊 Real-time answer scoring & evaluation
-- 💡 Personalised, actionable improvement tips
-- 🆓 Completely free — no account needed
+**✦ Dynamic AI-generated questions per role**
+**✦ Real-time answer scoring and evaluation**
+**✦ Personalised improvement suggestions**
+**✦ 100% free — no signup needed**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏛️ Enterprise Library Management System
-[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dawoodnadeem9914/Library_Database_Project)&nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dawoodnadeem9914/Library_Database_Project) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-> *Production-ready enterprise web app built on the full Spring ecosystem.*
+> *Production-ready enterprise web app — from DB schema to secured UI.*
 
-A secure, role-based library management system with Spring Security authentication, a fully relational Oracle database schema, and a responsive Bootstrap 5 UI — demonstrating end-to-end enterprise application architecture.
+Full-stack library system with Spring Security RBAC, a fully relational Oracle database, and a responsive Bootstrap 5 interface.
 
-**✦ Key Features**
-- 🔐 Spring Security with RBAC (Admin / Librarian / Member)
-- 📚 Full book catalogue & borrowing management
-- 🗃️ Relational Oracle DB with referential integrity
-- 📱 Fully responsive Bootstrap 5 interface
+**✦ Spring Security: Admin / Librarian / Member RBAC**
+**✦ Oracle DB with referential integrity**
+**✦ Full book catalogue and borrowing system**
+**✦ Responsive Bootstrap 5 frontend**
 
 </td>
 </tr>
@@ -142,10 +139,9 @@ A secure, role-based library management system with Spring Security authenticati
 <td width="50%" valign="top">
 
 ### 🗃️ Data Structures in Java
-[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dawoodnadeem9914/CCS3202-Data-Structure-Codes-)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dawoodnadeem9914/CCS3202-Data-Structure-Codes-) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-From-scratch Java implementations of core data structures and algorithms — the foundations of efficient software engineering.
+From-scratch Java implementations of core CS data structures and algorithms.
 
 **✦ Covers:** Arrays · Linked Lists · Stacks · Queues · Binary Trees · Merge Sort · Binary Search
 
@@ -153,12 +149,11 @@ From-scratch Java implementations of core data structures and algorithms — the
 <td width="50%" valign="top">
 
 ### 🧠 AI Search Algorithms in Python
-[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dawoodnadeem9914/Assignment2_AI)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dawoodnadeem9914/Assignment2_AI) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Python implementations of classical AI state-space search strategies used by intelligent agents to solve complex problems.
+Python implementations of classical AI state-space search strategies used by intelligent agents.
 
-**✦ Covers:** BFS · DFS · Uniform-Cost Search · Greedy Best-First · A\* Search
+**✦ Covers:** BFS · DFS · Uniform-Cost Search · Greedy Best-First · A* Search
 
 </td>
 </tr>
@@ -172,14 +167,12 @@ Python implementations of classical AI state-space search strategies used by int
 
 <img src="https://github-readme-stats.vercel.app/api?username=dawoodnadeem9914&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=400" height="175" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawoodnadeem9914&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&card_width=340" height="175" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawoodnadeem9914&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" height="175" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=dawoodnadeem9914&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=750" width="750" alt="GitHub Streak"/>
-
 </div>
 
 ---
@@ -187,39 +180,26 @@ Python implementations of classical AI state-space search strategies used by int
 ## 📈 Contribution Activity
 
 <div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dawoodnadeem9914&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dawoodnadeem9914&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&area_color=bf91f3" width="100%" alt="Contribution Graph"/>
+---
+
+## 🏆 Trophies & Achievements
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dawoodnadeem9914/dawoodnadeem9914/main/trophies/multilanguage.svg" width="155" alt="MultiLanguage"/>&nbsp;<img src="https://raw.githubusercontent.com/dawoodnadeem9914/dawoodnadeem9914/main/trophies/commits.svg" width="155" alt="Commits"/>&nbsp;<img src="https://raw.githubusercontent.com/dawoodnadeem9914/dawoodnadeem9914/main/trophies/repositories.svg" width="155" alt="Repositories"/>&nbsp;<img src="https://raw.githubusercontent.com/dawoodnadeem9914/dawoodnadeem9914/main/trophies/stars.svg" width="155" alt="Stars"/>&nbsp;<img src="https://raw.githubusercontent.com/dawoodnadeem9914/dawoodnadeem9914/main/trophies/experience.svg" width="155" alt="Experience"/>&nbsp;<img src="https://raw.githubusercontent.com/dawoodnadeem9914/dawoodnadeem9914/main/trophies/ai-builder.svg" width="155" alt="AI Builder"/>
 
 </div>
 
 ---
 
-## 🏆 Technical Highlights
+## 🐍 Contribution Snake
 
-<div align="center">
+> *Add the snake animation by following the setup steps below — takes 2 minutes!*
 
-| | Achievement | What I Built / Demonstrated |
-|:---:|:---|:---|
-| 🔐 | **Enterprise Security** | Spring Security with full RBAC — Admin, Librarian & Member role separation |
-| 🤖 | **AI Product Creator** | Built a free AI mock interview coach — real users, real feedback, zero cost |
-| 🗄️ | **Database Architecture** | Designed relational Oracle DB schemas with foreign keys, constraints & indexing |
-| 🏗️ | **Full-Stack Delivery** | End-to-end web apps: from DB schema → business logic → responsive UI |
-| 🌐 | **Multi-Language Engineer** | Writes production code in Java · Python · JavaScript · HTML · CSS · SQL |
-| 📚 | **CS Foundations** | 15+ data structure implementations from scratch: Linked Lists, Trees, Sorting |
-| ⭐ | **Community Recognition** | 3 GitHub stars received across projects from peers and the community |
-
-</div>
-
-<div align="center">
-
-![MultiLanguage](https://img.shields.io/badge/★_MultiLanguage-Java_·_Python_·_JS_·_HTML_·_CSS-6366f1?style=flat-square)
-![Repositories](https://img.shields.io/badge/★_Repositories-7_Public_Projects-6366f1?style=flat-square)
-![Commits](https://img.shields.io/badge/★_Commits-134_Contributions-6366f1?style=flat-square)
-![Stars](https://img.shields.io/badge/★_Stars-3_Received-6366f1?style=flat-square)
-![Enterprise](https://img.shields.io/badge/★_Enterprise_Stack-Spring_Boot_+_Oracle-6366f1?style=flat-square)
-![AI Builder](https://img.shields.io/badge/★_AI_Builder-Mock_Interview_Coach-6366f1?style=flat-square)
-
-</div>
+<!-- SNAKE_PLACEHOLDER -->
 
 ---
 
@@ -229,7 +209,7 @@ Python implementations of classical AI state-space search strategies used by int
 
 <br/>
 
-**I'm actively looking for internship opportunities and junior SWE roles — in Malaysia and remote.**  
+**I'm actively looking for internship opportunities and junior SWE roles — in Malaysia and remote.**
 If you have an opportunity or just want to connect, I'd love to hear from you!
 
 <br/>
@@ -238,7 +218,7 @@ If you have an opportunity or just want to connect, I'd love to hear from you!
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dawood%20Nadeem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dawood-nadeem)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-@dawoodnadeem9914-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dawoodnadeem9914)
+[![GitHub](https://img.shields.io/badge/GitHub-dawoodnadeem9914-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dawoodnadeem9914)
 
 <br/><br/>
 
