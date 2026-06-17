@@ -100,6 +100,16 @@ class DawoodNadeem:
 
 ---
 
+## ⚡ Skill Proficiency
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dawoodnadeem9914/dawoodnadeem9914/main/skills/proficiency.svg" width="100%" alt="Skill Proficiency"/>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -182,6 +192,36 @@ Python implementations of classical AI state-space search strategies used by int
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dawoodnadeem9914&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
+
+---
+
+## 🎯 2026 Goals & Roadmap
+
+<div align="center">
+
+| 🗓️ | Goal | Status |
+|:---:|:---|:---:|
+| Q2 | Deploy AI Interview Coach with a live public URL | 🔄 In Progress |
+| Q2 | Build personal portfolio website (`dawoodnadeem9914.github.io`) | 📋 Planned |
+| Q3 | Complete Machine Learning specialisation (Coursera / fast.ai) | 📋 Planned |
+| Q3 | Land a software engineering internship | 🎯 Target |
+| Q4 | Make first open source contribution (PR merged) | 📋 Planned |
+| Q4 | Earn AWS Cloud Practitioner or Google IT certificate | 📋 Planned |
+
+</div>
+
+---
+
+## 💡 Fun Facts About Me
+
+```text
+🤖  I built an AI interview coach as a 2nd-year student — before taking an AI elective
+🏛️  My library system uses Spring Security with 3 roles: Admin, Librarian & Member
+🗄️  I've designed relational schemas in Oracle DB with proper foreign keys & constraints
+🌏  Based in Malaysia — open to remote roles and relocation worldwide
+📚  Currently reading: "Hands-On ML with Scikit-Learn, Keras & TensorFlow"
+☕  Most productive at night — best code happens after 11 PM
+```
 
 ---
 
