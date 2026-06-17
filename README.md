@@ -197,9 +197,15 @@ Python implementations of classical AI state-space search strategies used by int
 
 ## 🐍 Contribution Snake
 
-> *Add the snake animation by following the setup steps below — takes 2 minutes!*
+<div align="center">
 
-<!-- SNAKE_PLACEHOLDER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dawoodnadeem9914/dawoodnadeem9914/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dawoodnadeem9914/dawoodnadeem9914/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/dawoodnadeem9914/dawoodnadeem9914/output/snake-dark.svg" alt="Snake animation" width="100%"/>
+</picture>
+
+</div>
 
 ---
 
