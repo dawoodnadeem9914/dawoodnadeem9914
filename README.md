@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Dawood+Nadeem+%F0%9F%91%8B;Computer+Science+Student+%40+UPM%2C+Malaysia;AI+%7C+Full-Stack+%7C+Backend+Developer;Building+Real+Solutions+with+Real+Tech" alt="Typing SVG" />
+<!-- Capsule Render Header — more reliable than readme-typing-svg -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Dawood%20Nadeem&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%40%20UPM%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
@@ -88,9 +88,9 @@ developer = {
 ### 🤖 AI Mock Interview Coach
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/dawoodnadeem9914/AI_Project)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/-AI%2FNlp-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-An intelligent, **free-to-use** interview preparation platform powered by AI. Conducts realistic mock interviews, scores candidate responses in real-time, and provides personalised feedback to help job seekers land their dream roles — before they ever walk into a real interview room.
+An intelligent, **free-to-use** interview preparation platform powered by AI. Conducts realistic mock interviews, scores candidate responses in real-time, and provides personalised feedback to help job seekers land their dream roles.
 
 **Key Features:**
 - 🎯 Dynamic AI-generated interview questions
@@ -106,7 +106,7 @@ An intelligent, **free-to-use** interview preparation platform powered by AI. Co
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-A production-ready full-stack web application for enterprise library management. Features secure, role-based access control, a fully relational Oracle database, and a clean responsive UI — demonstrating a complete understanding of the Spring ecosystem.
+A production-ready full-stack web application for enterprise library management. Features secure, role-based access control, a fully relational Oracle database, and a clean responsive UI.
 
 **Key Features:**
 - 🔐 Spring Security authentication & RBAC
@@ -148,7 +148,7 @@ Python implementations of classical AI problem-solving algorithms, exploring sta
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dawoodnadeem9914&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dawoodnadeem9914&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawoodnadeem9914&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages"/>
 
@@ -157,16 +157,6 @@ Python implementations of classical AI problem-solving algorithms, exploring sta
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=dawoodnadeem9914&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dawoodnadeem9914&theme=tokyonight&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies"/>
 
 </div>
 
@@ -187,8 +177,6 @@ If you're working on something interesting or have an opportunity to discuss, le
 
 <br/>
 
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=💼+Open+to+Internships+%26+Junior+SWE+Roles;⭐+Star+a+repo+if+you+find+it+useful!;🤝+Always+open+to+collaborating" alt="Footer typing"/>
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" width="100%"/>
