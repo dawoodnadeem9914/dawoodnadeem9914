@@ -104,7 +104,7 @@ class DawoodNadeem:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dawoodnadeem9914/dawoodnadeem9914/main/skills/proficiency.svg" width="100%" alt="Skill Proficiency"/>
+<img src="https://raw.githubusercontent.com/dawoodnadeem9914/dawoodnadeem9914/main/skills/proficiency.png" width="100%" alt="Skill Proficiency"/>
 
 </div>
 
