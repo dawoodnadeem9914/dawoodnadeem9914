@@ -194,11 +194,30 @@ Python implementations of classical AI state-space search strategies used by int
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Technical Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dawoodnadeem9914&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%" alt="GitHub Trophies"/>
+| | Achievement | What I Built / Demonstrated |
+|:---:|:---|:---|
+| 🔐 | **Enterprise Security** | Spring Security with full RBAC — Admin, Librarian & Member role separation |
+| 🤖 | **AI Product Creator** | Built a free AI mock interview coach — real users, real feedback, zero cost |
+| 🗄️ | **Database Architecture** | Designed relational Oracle DB schemas with foreign keys, constraints & indexing |
+| 🏗️ | **Full-Stack Delivery** | End-to-end web apps: from DB schema → business logic → responsive UI |
+| 🌐 | **Multi-Language Engineer** | Writes production code in Java · Python · JavaScript · HTML · CSS · SQL |
+| 📚 | **CS Foundations** | 15+ data structure implementations from scratch: Linked Lists, Trees, Sorting |
+| ⭐ | **Community Recognition** | 3 GitHub stars received across projects from peers and the community |
+
+</div>
+
+<div align="center">
+
+![MultiLanguage](https://img.shields.io/badge/★_MultiLanguage-Java_·_Python_·_JS_·_HTML_·_CSS-6366f1?style=flat-square)
+![Repositories](https://img.shields.io/badge/★_Repositories-7_Public_Projects-6366f1?style=flat-square)
+![Commits](https://img.shields.io/badge/★_Commits-134_Contributions-6366f1?style=flat-square)
+![Stars](https://img.shields.io/badge/★_Stars-3_Received-6366f1?style=flat-square)
+![Enterprise](https://img.shields.io/badge/★_Enterprise_Stack-Spring_Boot_+_Oracle-6366f1?style=flat-square)
+![AI Builder](https://img.shields.io/badge/★_AI_Builder-Mock_Interview_Coach-6366f1?style=flat-square)
 
 </div>
 
