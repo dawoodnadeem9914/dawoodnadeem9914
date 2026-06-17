@@ -15,6 +15,21 @@
 
 ---
 
+## 🌐 Live Deployments
+
+<div align="center">
+
+> 🚀 **Both projects are live and accessible right now — click to try them!**
+
+| Project | Stack | Live URL |
+|:---|:---|:---|
+| 🤖 **AI Mock Interview Coach** | Python · AI · GitHub Pages | [![Live](https://img.shields.io/badge/🌐_Try_It_Live-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dawoodnadeem9914.github.io/AI_Project) |
+| 🏛️ **Enterprise Library System** | Spring Boot · Oracle DB · Railway | [![Live](https://img.shields.io/badge/🌐_Try_It_Live-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://librarydatabaseproject-production.up.railway.app) |
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 ```python
@@ -203,6 +218,7 @@ Python implementations of classical AI state-space search strategies used by int
 |:---:|:---|:---:|
 | Q2 | ~~Deploy AI Interview Coach with a live public URL~~ [🌐 Live!](https://dawoodnadeem9914.github.io/AI_Project) | ✅ Done |
 | Q2 | Build personal portfolio website (`dawoodnadeem9914.github.io`) | 🔄 In Progress |
+| Q2 | ~~Deploy Enterprise Library System to Railway~~ [🌐 Live!](https://librarydatabaseproject-production.up.railway.app) | ✅ Done |
 | Q3 | Complete Machine Learning specialisation (Coursera / fast.ai) | 📋 Planned |
 | Q3 | Land a software engineering internship | 🎯 Target |
 | Q4 | Make first open source contribution (PR merged) | 📋 Planned |
