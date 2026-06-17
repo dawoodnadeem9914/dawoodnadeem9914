@@ -117,7 +117,7 @@ class DawoodNadeem:
 <td width="50%" valign="top">
 
 ### 🤖 AI Mock Interview Coach
-[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dawoodnadeem9914/AI_Project) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dawoodnadeem9914/AI_Project) [![🌐 Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=flat-square&logo=googlechrome&logoColor=white)](https://dawoodnadeem9914.github.io/AI_Project) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 > *Most people fail interviews not because they're unqualified — but because they're unprepared.*
 
@@ -132,7 +132,7 @@ Free, AI-powered platform that conducts full mock interviews, evaluates response
 <td width="50%" valign="top">
 
 ### 🏛️ Enterprise Library Management System
-[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dawoodnadeem9914/Library_Database_Project) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dawoodnadeem9914/Library_Database_Project) [![🌐 Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=flat-square&logo=railway&logoColor=white)](https://librarydatabaseproject-production.up.railway.app) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 > *Production-ready enterprise web app — from DB schema to secured UI.*
 
@@ -201,8 +201,8 @@ Python implementations of classical AI state-space search strategies used by int
 
 | 🗓️ | Goal | Status |
 |:---:|:---|:---:|
-| Q2 | Deploy AI Interview Coach with a live public URL | 🔄 In Progress |
-| Q2 | Build personal portfolio website (`dawoodnadeem9914.github.io`) | 📋 Planned |
+| Q2 | ~~Deploy AI Interview Coach with a live public URL~~ [🌐 Live!](https://dawoodnadeem9914.github.io/AI_Project) | ✅ Done |
+| Q2 | Build personal portfolio website (`dawoodnadeem9914.github.io`) | 🔄 In Progress |
 | Q3 | Complete Machine Learning specialisation (Coursera / fast.ai) | 📋 Planned |
 | Q3 | Land a software engineering internship | 🎯 Target |
 | Q4 | Make first open source contribution (PR merged) | 📋 Planned |
