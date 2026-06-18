@@ -132,16 +132,16 @@ class DawoodNadeem:
 <td width="50%" valign="top">
 
 ### 🤖 AI Mock Interview Coach
-[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dawoodnadeem9914/AI_Project) [![🌐 Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=flat-square&logo=googlechrome&logoColor=white)](https://dawoodnadeem9914.github.io/AI_Project) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dawoodnadeem9914/AI_Project) [![🌐 Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=flat-square&logo=googlechrome&logoColor=white)](https://dawoodnadeem9914.github.io/AI_Project) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![GPT-4o](https://img.shields.io/badge/GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 > *Most people fail interviews not because they're unqualified — but because they're unprepared.*
 
-Free, AI-powered platform that conducts full mock interviews, evaluates responses in real-time, scores performance, and gives specific actionable feedback.
+Free voice-based AI interview coach. Pick an industry (Technology, Banking, Healthcare, Education, Engineering) and experience level — the AI interviews you by voice, scores your answers using GPT-4o-mini, and gives a detailed performance report.
 
-**✦ Dynamic AI-generated questions per role**
-**✦ Real-time answer scoring and evaluation**
-**✦ Personalised improvement suggestions**
-**✦ 100% free — no signup needed**
+**✦ Voice input via Web Speech API (Chrome/Edge) or Whisper (iOS)**
+**✦ Natural AI voice powered by ElevenLabs neural TTS**
+**✦ Scores: Communication · Content · Confidence · Fluency**
+**✦ Tracks progress across sessions via Supabase**
 
 </td>
 <td width="50%" valign="top">
