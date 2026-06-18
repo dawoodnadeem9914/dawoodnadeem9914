@@ -151,12 +151,12 @@ Free voice-based AI interview coach. Pick an industry (Technology, Banking, Heal
 
 > *Production-ready enterprise web app — from DB schema to secured UI.*
 
-Full-stack library system with Spring Security RBAC, a fully relational Oracle database, and a responsive Bootstrap 5 interface.
+Full-stack web app (Library Pro) for managing books, members, and loans. Built on Spring Boot 3.2 with Oracle 21c, Spring Security RBAC, Thymeleaf + Bootstrap 5. Deployed on Railway with persistent storage.
 
-**✦ Spring Security: Admin / Librarian / Member RBAC**
-**✦ Oracle DB with referential integrity**
-**✦ Full book catalogue and borrowing system**
-**✦ Responsive Bootstrap 5 frontend**
+**✦ Spring Security: ADMIN · LIBRARIAN · STAFF · MEMBER roles**
+**✦ Oracle 21c — 7 tables normalised to 3NF**
+**✦ Full CRUD: Books · Members · Loans · Users**
+**✦ Reports with PDF, Excel, CSV export**
 
 </td>
 </tr>
